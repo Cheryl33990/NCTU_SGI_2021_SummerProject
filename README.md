@@ -13,7 +13,7 @@
 >參考資料2：內政部營政署道路工程組 https://myway.cpami.gov.tw/evaluate/evaluate-Plan.html  
 
 ## 市區道路養護管理暨人行環境無障礙考評計畫 - 作業說明  
->內容節錄並自行編排  
+>內容節錄自參考資料2，並自行編排。  
 
 **一、考評對象及範圍**  
 **(一)考評範圍**  
@@ -34,5 +34,15 @@
 **五、評分方式**  
 ![直轄市及縣市型評分方式示意圖](https://myway.cpami.gov.tw/evaluate/images/evalue/108/Type-Score.jpg)  
 
-## 選擇訓練資料集
-下載公開資料集：https://drive.google.com/file/d/1xrOqv0-3uMHjZyEUrerOYiYXW_E8SUMP/view 
+## 都市人本交通道路規劃設計
+>內容節錄自參考資料1，並自行編排。  
+
+**一、人行環境定義**  
+**人行道** ：供行人通行之騎樓、走廊及劃設供行人行走之地面、道路、人行天橋及人行地下道。  
+**行人穿越道** ：指在道路上以標線劃設，供行人穿越道路之地方。  
+![人行環境示意圖](https://myway.cpami.gov.tw/images/wiki/Book01/photo04-01-01.jpg)    
+
+
+
+# 深度學習裂縫偵測 訓練資料集
+下載公開資料集：https://drive.google.com/file/d/1xrOqv0-3uMHjZyEUrerOYiYXW_E8SUMP/view
